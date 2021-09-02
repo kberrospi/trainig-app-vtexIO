@@ -1,0 +1,8 @@
+{
+  "training-app": {
+    "component": "TrainingApp"
+  },
+  "last-unit": {
+    "component": "LastUnit"
+  }
+}

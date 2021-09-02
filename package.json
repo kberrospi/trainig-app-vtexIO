@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "CHANGE_ME",
+  "name": "training-app",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -40,5 +40,10 @@
     "lint-staged": "^10.5.1",
     "prettier": "^2.2.0",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.21",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.5.1"
   }
 }
